@@ -4,3 +4,6 @@
 [submodule "packages/toolkit"]
 	path = packages/toolkit
 	url = https://github.com/quanttide/quanttide-knowl-toolkit.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-knowledge-engineering.git
