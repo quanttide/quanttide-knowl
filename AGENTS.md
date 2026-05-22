@@ -9,6 +9,7 @@
 | qtcloud-knowl | `apps/qtcloud-knowl` | 知识云平台应用 |
 | knowl-toolkit | `packages/toolkit` | 知识工程工具包 SDK |
 | gallery | `docs/gallery` | 知识工程工作案例展示 |
+| examples-code | `examples/code` | 软件工程实验室示例代码 |
 
 **子模组操作规范：**
 - 拉取更新：`git submodule update --remote <path>`
