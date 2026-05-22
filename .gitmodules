@@ -1,3 +1,6 @@
 [submodule "apps/qtcloud-knowl"]
 	path = apps/qtcloud-knowl
 	url = https://github.com/quanttide/qtcloud-knowl.git
+[submodule "packages/toolkit"]
+	path = packages/toolkit
+	url = https://github.com/quanttide/quanttide-knowl-toolkit.git
