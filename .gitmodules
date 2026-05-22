@@ -10,3 +10,6 @@
 [submodule "examples/code"]
 	path = examples/code
 	url = https://github.com/quanttide/quanttide-example-of-software-engineering.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-example-of-knowledge-engineering.git

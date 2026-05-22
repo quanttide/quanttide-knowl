@@ -10,6 +10,7 @@
 | knowl-toolkit | `packages/toolkit` | 知识工程工具包 SDK |
 | gallery | `docs/gallery` | 知识工程工作案例展示 |
 | examples-code | `examples/code` | 软件工程实验室示例代码 |
+| examples-default | `examples/default` | 知识工程通用示例项目 |
 
 **子模组操作规范：**
 - 拉取更新：`git submodule update --remote <path>`
