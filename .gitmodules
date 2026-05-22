@@ -1,0 +1,3 @@
+[submodule "apps/qtcloud-knowl"]
+	path = apps/qtcloud-knowl
+	url = https://github.com/quanttide/qtcloud-knowl.git
