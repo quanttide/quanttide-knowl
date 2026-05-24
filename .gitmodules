@@ -10,3 +10,6 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-example-of-knowledge-engineering.git
+[submodule "docs/context"]
+	path = docs/context
+	url = https://github.com/quanttide/quanttide-context-of-knowledge-engineering
