@@ -10,9 +10,9 @@
 [submodule "docs/context"]
 	path = docs/context
 	url = https://github.com/quanttide/quanttide-context-of-knowledge-engineering
-[submodule "laboratories/default"]
-	path = laboratories/default
+[submodule "examples/default"]
+	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-knowledge-engineering.git
-[submodule "laboratories/code"]
-	path = laboratories/code
+[submodule "examples/code"]
+	path = examples/code
 	url = https://github.com/quanttide/quanttide-laboratory-of-software-engineering.git

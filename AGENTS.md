@@ -9,8 +9,8 @@
 | qtcloud-knowl | `apps/qtcloud-knowl` | 知识云平台应用 |
 | knowl-toolkit | `packages/toolkit` | 知识工程工具包 SDK |
 | gallery | `docs/gallery` | 知识工程工作案例展示 |
-| laboratory-code | `laboratories/code` | 软件工程实验室 |
-| laboratory-default | `laboratories/default` | 知识工程通用实验室 |
+| examples-code | `examples/code` | 软件工程实验室 |
+| examples-default | `examples/default` | 知识工程通用实验室 |
 | context | `docs/context` | 知识工程语境文档 |
 
 **子模组操作规范：**
