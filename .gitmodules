@@ -7,9 +7,12 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-knowledge-engineering.git
-[submodule "docs/context"]
-	path = docs/context
+[submodule "data/context"]
+	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-knowledge-engineering
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-knowledge-engineering.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-knowledge-engineering.git
