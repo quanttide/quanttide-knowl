@@ -10,9 +10,9 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-knowledge-engineering
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-knowledge-engineering.git
+[submodule "examples/quanttide-knowl-lab"]
+	path = examples/quanttide-knowl-lab
+	url = https://github.com/quanttide/quanttide-knowl-lab.git
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-knowledge-engineering.git
